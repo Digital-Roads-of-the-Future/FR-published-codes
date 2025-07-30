@@ -44,7 +44,7 @@ This Code of Conduct applies within all project spaces, and also applies when an
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the project maintainers at [CONTACT EMAIL].  
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the project maintainers at drf-initiative@eng.cam.ac.uk.  
 All complaints will be reviewed and investigated promptly and fairly.
 
 All project maintainers are obligated to respect the privacy and security of the reporter of any incident.
@@ -58,4 +58,4 @@ This Code of Conduct is adapted from the [Contributor Covenant](https://www.cont
 ---
 
 **Contact for enforcement and questions:**  
-Please reach out to the maintainers via [CONTACT EMAIL] or by opening an issue marked “private” for sensitive matters.
+Please reach out to the maintainers via drf-initiative@eng.cam.ac.uk or by opening an issue marked “private” for sensitive matters.
