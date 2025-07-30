@@ -15,18 +15,12 @@ Thank you for your interest in contributing to **FR-published-codes**! We welcom
 
 ### 2. Link Your Project Repository
 
-**Option A: Transfer Your Existing Repository**
-- Go to your repository on GitHub.
-- Click “Settings” > “General” > “Transfer ownership”.
-- Enter `FR-published-codes` as the new owner and confirm.
-- Your repository will now be under the organization.
-
-**Option B: Fork Your Repository**
+**Option A: Fork Your Repository**
 - Go to your existing repository.
 - Click “Fork” and select `FR-published-codes` as the destination.
 - Update your forked repository as needed.
 
-**Option C: Create a New Repository**
+**Option B: Create a New Repository**
 - Go to the `FR-published-codes` organization page.
 - Click “New” to create a new repository for your project.
 - Upload your code and files.
