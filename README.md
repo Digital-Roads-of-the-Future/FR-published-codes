@@ -34,7 +34,7 @@ If you are a member of our group and want to link your existing research code:
    - Update your README and metadata as needed.
 
 3. **Complete Project Metadata:**  
-   - Use the [README Template](docs/README-template.md) in your project repository.
+   - Use the [README Template](/README-template.md) in your project repository.
    - Add details about publications, datasets, and dependencies.
 
 4. **Add Your Project to the Central Index:**  
