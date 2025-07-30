@@ -1,0 +1,88 @@
+# How to Submit a Pull Request to Update the Central Index (PROJECTS.md)
+
+Follow these steps to add your project to the central index in **FR-published-codes**.
+
+---
+
+## 1. Fork the Repository
+
+- Visit [FR-published-codes](https://github.com/FR-published-codes/FR-published-codes).
+- Click the **“Fork”** button (top-right corner) to create a copy under your account.
+
+---
+
+## 2. Clone Your Fork Locally
+
+- Click **“Code”** and copy the repository URL from your fork.
+- In your terminal, run:
+  ```
+  git clone https://github.com/YOUR-USERNAME/FR-published-codes.git
+  ```
+- Replace `YOUR-USERNAME` with your GitHub username.
+
+---
+
+## 3. Create a New Branch
+
+- Change to the repository directory:
+  ```
+  cd FR-published-codes
+  ```
+- Create and switch to a new branch:
+  ```
+  git checkout -b add-my-project
+  ```
+
+---
+
+## 4. Edit `PROJECTS.md`
+
+- Open `PROJECTS.md` in your editor.
+- Add a new row for your project in the table, following this format:
+  ```
+  | Project Name | Lead Researcher / Group | Repo Link | Publications | Datasets | Dependencies |
+  |--------------|------------------------|-----------|--------------|----------|--------------|
+  | YourProject  | Your Name              | [repo](https://github.com/FR-published-codes/yourproject) | [Paper](https://doi.org/...) | [Dataset](https://...) | [requirements.txt](...) |
+  ```
+- Save your changes.
+
+---
+
+## 5. Commit and Push Your Changes
+
+- Stage and commit your changes:
+  ```
+  git add PROJECTS.md
+  git commit -m "Add my project to central index"
+  ```
+- Push your branch to your fork:
+  ```
+  git push origin add-my-project
+  ```
+
+---
+
+## 6. Create a Pull Request
+
+- Go to your fork on GitHub.
+- Click **“Compare & pull request”** for the branch you just pushed.
+- Fill out the PR form (title, description), explaining your addition.
+- Submit the pull request.
+
+---
+
+## 7. Wait for Review and Merge
+
+- Repository admins will review your submission.
+- They may request changes or merge your pull request.
+
+---
+
+## Alternative: Edit Directly on GitHub
+
+- You can also edit `PROJECTS.md` using GitHub's web interface on your fork.
+- After editing, GitHub will prompt you to create a pull request.
+
+---
+
+For more details, see [CONTRIBUTING.md](../CONTRIBUTING.md).
